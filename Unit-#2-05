@@ -2,7 +2,6 @@
   Created by: Ollie Pruys
   Created on: March 2026
   This Program Rotates A Servo
-
 */
 
 #include <Servo.h>
